@@ -1,0 +1,4 @@
+word = "Hello World"
+letter=word[0]
+
+print(letter)
